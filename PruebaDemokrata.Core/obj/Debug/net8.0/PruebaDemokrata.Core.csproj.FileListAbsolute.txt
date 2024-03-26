@@ -1,0 +1,12 @@
+F:\Prueba\PruebaDemokrata.Core\bin\Debug\net8.0\PruebaDemokrata.Core.deps.json
+F:\Prueba\PruebaDemokrata.Core\bin\Debug\net8.0\PruebaDemokrata.Core.dll
+F:\Prueba\PruebaDemokrata.Core\bin\Debug\net8.0\PruebaDemokrata.Core.pdb
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.csproj.AssemblyReference.cache
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.AssemblyInfoInputs.cache
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.AssemblyInfo.cs
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.csproj.CoreCompileInputs.cache
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.dll
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\refint\PruebaDemokrata.Core.dll
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\PruebaDemokrata.Core.pdb
+F:\Prueba\PruebaDemokrata.Core\obj\Debug\net8.0\ref\PruebaDemokrata.Core.dll

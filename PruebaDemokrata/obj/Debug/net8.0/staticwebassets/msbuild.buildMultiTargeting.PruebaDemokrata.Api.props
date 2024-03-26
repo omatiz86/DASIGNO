@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PruebaDemokrata.Api.props" />
+</Project>

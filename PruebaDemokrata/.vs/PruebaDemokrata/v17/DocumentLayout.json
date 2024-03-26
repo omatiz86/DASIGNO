@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Prueba\\PruebaDemokrata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051F31F1-42CF-460B-BC95-401642E0EB36}|..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj|f:\\prueba\\pruebademokrata.test\\pruebademokrata.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA82FE-FC79-4036-9297-80656C489D1D}|..\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj|f:\\prueba\\pruebademokrata.infrastructure\\pruebademokrata.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\controllers\\dasignocrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:controllers\\dasignocrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F31F1-42CF-460B-BC95-401642E0EB36}|..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj|f:\\prueba\\pruebademokrata.test\\usuariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F31F1-42CF-460B-BC95-401642E0EB36}|..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj|f:\\prueba\\pruebademokrata.test\\pruebademokrata.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F31F1-42CF-460B-BC95-401642E0EB36}|..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj|f:\\prueba\\pruebademokrata.test\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\extensions\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:extensions\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F31F1-42CF-460B-BC95-401642E0EB36}|..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj|f:\\prueba\\pruebademokrata.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\pruebademokrata.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:pruebademokrata.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\entites\\dto\\usuarioindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA82FE-FC79-4036-9297-80656C489D1D}|..\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj|f:\\prueba\\pruebademokrata.infrastructure\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\entites\\dto\\filtrosusuariosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FA82FE-FC79-4036-9297-80656C489D1D}|..\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj|f:\\prueba\\pruebademokrata.infrastructure\\context\\efcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\entites\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\entites\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\entites\\usuariofiltrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C426B1A-7F22-4151-955F-068172F4846B}|..\\PruebaDemokrata.Core\\PruebaDemokrata.Core.csproj|f:\\prueba\\pruebademokrata.core\\entites\\dto\\requestpaginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\extensions\\swaggerservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:extensions\\swaggerservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|f:\\prueba\\pruebademokrata\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CAA85-70B5-41F3-89EA-A5D2AE9C8BD0}|PruebaDemokrata.Api.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaDemokrata.Test",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "RelativeToolTip": "..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T04:30:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaDemokrata.Infrastructure",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj",
+              "RelativeToolTip": "..\\PruebaDemokrata.Infrastructure\\PruebaDemokrata.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T04:30:30.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DasignoCRUDController.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\Controllers\\DasignoCRUDController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DasignoCRUDController.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\Controllers\\DasignoCRUDController.cs",
+              "RelativeToolTip": "Controllers\\DasignoCRUDController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Test\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Test\\MapperProfile.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Test\\MapperProfile.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Test\\MapperProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioTest.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Test\\UsuarioTest.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Test\\UsuarioTest.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Test\\UsuarioTest.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Test\\UsuarioTest.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PruebaDemokrata.Test.csproj",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "RelativeToolTip": "..\\PruebaDemokrata.Test\\PruebaDemokrata.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T04:27:03.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Test\\UnitTest1.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\Extensions\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Extensions\\MappingProfiles.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\Extensions\\MappingProfiles.cs",
+              "RelativeToolTip": "Extensions\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Service\\UsuarioService.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Service\\UsuarioService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAASwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioInDto.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioInDto.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioInDto.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioInDto.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioInDto.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EFContext.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Infrastructure\\Context\\EFContext.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Infrastructure\\Context\\EFContext.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Infrastructure\\Context\\EFContext.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Infrastructure\\Context\\EFContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAApwCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PruebaDemokrata.Api.csproj",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\PruebaDemokrata.Api.csproj",
+              "RelativeDocumentMoniker": "PruebaDemokrata.Api.csproj",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\PruebaDemokrata.Api.csproj",
+              "RelativeToolTip": "PruebaDemokrata.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-26T04:27:03.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Infrastructure\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Infrastructure\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Infrastructure\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Infrastructure\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\Usuario.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Entites\\Usuario.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\Usuario.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Entites\\Usuario.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FiltrosUsuariosDto.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\FiltrosUsuariosDto.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Entites\\DTO\\FiltrosUsuariosDto.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\FiltrosUsuariosDto.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Entites\\DTO\\FiltrosUsuariosDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioFiltroDto.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\UsuarioFiltroDto.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Entites\\UsuarioFiltroDto.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\UsuarioFiltroDto.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Entites\\UsuarioFiltroDto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioDto.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioDto.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Entites\\DTO\\UsuarioDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequestPaginacionDto.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\RequestPaginacionDto.cs",
+              "RelativeDocumentMoniker": "..\\PruebaDemokrata.Core\\Entites\\DTO\\RequestPaginacionDto.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata.Core\\Entites\\DTO\\RequestPaginacionDto.cs",
+              "RelativeToolTip": "..\\PruebaDemokrata.Core\\Entites\\DTO\\RequestPaginacionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SwaggerServicesExtensions.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\Extensions\\SwaggerServicesExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SwaggerServicesExtensions.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\Extensions\\SwaggerServicesExtensions.cs",
+              "RelativeToolTip": "Extensions\\SwaggerServicesExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T04:27:03.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "F:\\Prueba\\PruebaDemokrata\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "F:\\Prueba\\PruebaDemokrata\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:27:03.984Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+F:\Prueba\PruebaDemokrata.Infrastructure\bin\Debug\net8.0\PruebaDemokrata.Infrastructure.deps.json
+F:\Prueba\PruebaDemokrata.Infrastructure\bin\Debug\net8.0\PruebaDemokrata.Infrastructure.runtimeconfig.json
+F:\Prueba\PruebaDemokrata.Infrastructure\bin\Debug\net8.0\PruebaDemokrata.Infrastructure.dll
+F:\Prueba\PruebaDemokrata.Infrastructure\bin\Debug\net8.0\PruebaDemokrata.Infrastructure.pdb
+F:\Prueba\PruebaDemokrata.Infrastructure\bin\Debug\net8.0\PruebaDemokrata.Core.dll
+F:\Prueba\PruebaDemokrata.Infrastructure\bin\Debug\net8.0\PruebaDemokrata.Core.pdb
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.csproj.AssemblyReference.cache
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.AssemblyInfoInputs.cache
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.AssemblyInfo.cs
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDe.FDDB3E9E.Up2Date
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.dll
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\refint\PruebaDemokrata.Infrastructure.dll
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.pdb
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\PruebaDemokrata.Infrastructure.genruntimeconfig.cache
+F:\Prueba\PruebaDemokrata.Infrastructure\obj\Debug\net8.0\ref\PruebaDemokrata.Infrastructure.dll
