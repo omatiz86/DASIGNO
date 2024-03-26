@@ -1,0 +1,22 @@
+USE [BD_OmarChacon]
+GO
+
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[usuarios]') AND type in (N'U'))
+DROP TABLE [dbo].[usuarios]
+GO
+
+
+CREATE TABLE dbo.usuarios (
+    [id] INT IDENTITY(1,1) PRIMARY KEY,
+    [PrimerNombre] NVARCHAR(50) NOT NULL, 
+    [SegundoNombre] NVARCHAR(50) NULL ,
+    [PrimerApellido] NVARCHAR(50) NOT NULL ,
+    [SegundoApellido] NVARCHAR(50) NULL ,
+    [FechaNacimiento] DATE NOT NULL,
+    [Sueldo] DECIMAL(10, 2) NOT NULL ,
+    [FechaCreacion] DATETIME NOT NULL, --DEFAULT GETDATE(),
+    [FechaModificacion] DATETIME NULL
+);
+GO
+
+
